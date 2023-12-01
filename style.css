@@ -16,10 +16,10 @@ body {
 
 .text h1 {
     margin: -10%;
-    font-size: clamp(40px, 60vw, 60px);
+    font-size: clamp(20px, 40vw, 40px);
     text-align: center;
     padding: 10px 20px;
     font-weight: bold;
-    color: white;
+    color: black;
     
 }
