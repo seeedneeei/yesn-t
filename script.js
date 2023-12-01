@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const lyrics = [
-        "i'm sorry",
+        "xem mấy con mèo cho yêu đời nhé",
 
     ];
 
