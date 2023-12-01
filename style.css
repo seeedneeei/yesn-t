@@ -11,12 +11,12 @@ body {
     justify-content: center; 
     align-items: center; 
     position: relative;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Righteous', sans-serif;
 }
 
 .text h1 {
-    margin: -10%;
-    font-size: clamp(20px, 40vw, 40px);
+    margin: 0;
+    font-size: clamp(20px, 8vw, 40px);
     text-align: center;
     padding: 10px 20px;
     font-weight: bold;
