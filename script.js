@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             await new Promise((resolve) => setTimeout(resolve, delay * 10));
 
-            lyricsElement.innerHTML = "";
+            lyricsElement.textContent = "";
 
             await new Promise((resolve) => setTimeout(resolve, delay * 10));
         }
