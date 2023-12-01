@@ -4,7 +4,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     ];
 
-    const delay = 33; 
+    const delay = 70; 
+    const lineDelay = delay * 20;
+    const clearDelay = delay * 20;
+    
     const lyricsElement = document.getElementById("lyrics");
 
     async function displayLyrics() {
